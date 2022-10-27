@@ -26,7 +26,9 @@ header>h1{
 
 nav{
     margin-top:39px;
-    margin-left: 49px;
+    margin-left: 35px;
+    min-width: 430px;
+    
 }
 
 nav>a{
@@ -58,19 +60,20 @@ margin:10px 0px;
 
 article>h2{
     margin:15px 0px;
-    background-image: linear-gradient(to right, white,black 90%);
+   
 }
 
 article>h3{
 margin: 10px 0px;
-background-image: linear-gradient(to right, white,black 20%);
+
 }
 
 h4{
     font-family: 'Tajawal', sans-serif;
-    height: 30px;
+    height: 44px;
+    line-height: 14px;
     width: 100%;
-    background-image: linear-gradient(to right, white,black 90%);
+   
     font-size:20px;
     margin:20px 0px 10px -2px;
 }
