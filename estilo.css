@@ -126,6 +126,7 @@ footer{
  min-height: 50px;
     background-color: grey;
     text-align: center;
+min-width:490px;
 }
 
 footer>p{
